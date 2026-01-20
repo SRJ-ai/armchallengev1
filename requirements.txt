@@ -1,0 +1,12 @@
+# Offline Hindi Voice Assistant Dependencies
+# Core dependencies
+vosk>=0.3.45
+pyaudio>=0.2.13
+numpy>=1.24.0
+
+# TTS - Piper (Indic TTS - neural voice for Hindi)
+piper-tts>=1.2.0
+soundfile>=0.12.0
+
+# Testing
+pytest>=7.4.0

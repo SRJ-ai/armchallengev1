@@ -1,0 +1,67 @@
+{"timestamp": "2026-01-19T01:07:18.195711", "text": "नमस्ते", "intent": "greeting", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.199237", "text": "समय", "intent": "get_time", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.203883", "text": "टाइम", "intent": "get_time", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.210976", "text": "समाई", "intent": "get_time", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.222542", "text": "वॉल्यूम बड़ा हुआ", "intent": "volume_up", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.238692", "text": "क्या कर सकते हैं", "intent": "help", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.255209", "text": "पांच मिनट का टाइमर", "intent": "set_timer", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:18.260402", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:07:18.264948", "text": "random text", "intent": "stop", "confidence": 0.5, "match_type": "ngram"}
+{"timestamp": "2026-01-19T01:07:50.571511", "text": "मौसम", "intent": "get_weather", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:07:56.824015", "text": "मौसम", "intent": "get_weather", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:08:03.265173", "text": "वॉल्यूम बड़ा हो", "intent": "volume_up", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:08:05.919705", "text": "वॉल्यूम बड़ा हो", "intent": "volume_up", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:08:12.479861", "text": "बैटरी", "intent": "battery", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:08:44.374549", "text": "मई", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:08:49.630138", "text": "मई", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:08:52.480230", "text": "है वक्त", "intent": "get_time", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:08:56.557544", "text": "है वक्त", "intent": "get_time", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:08:58.349539", "text": "हैं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:09:03.673077", "text": "हैं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:09:13.673733", "text": "धन्यवाद", "intent": "thanks", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:09:16.042216", "text": "धन्यवाद", "intent": "thanks", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:09:25.917133", "text": "नमस्ते", "intent": "greeting", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:09:30.359175", "text": "नमस्ते", "intent": "greeting", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:09:32.468230", "text": "हूं", "intent": "unknown", "confidence": 0.425, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:09:37.795515", "text": "हूं", "intent": "unknown", "confidence": 0.425, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:09:41.123170", "text": "है क्या बाजा", "intent": "unknown", "confidence": 0.425, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:09:46.629885", "text": "है क्या बाजा", "intent": "unknown", "confidence": 0.425, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:09:48.490707", "text": "कहीं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:09:54.141384", "text": "कहीं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:09:57.739727", "text": "क्या बचा", "intent": "unknown", "confidence": 0.425, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:10:02.939790", "text": "क्या बचा", "intent": "unknown", "confidence": 0.425, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:10:06.064689", "text": "है समय", "intent": "get_time", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:10:10.453849", "text": "है समय", "intent": "get_time", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:10:12.158696", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:10:17.574364", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:10:20.366798", "text": "कहीं दिन", "intent": "get_day", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:10:22.400012", "text": "कहीं दिन", "intent": "get_day", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:10:24.159479", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:10:29.393958", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:10:35.457625", "text": "क्या कर सकते", "intent": "help", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:10:43.003676", "text": "क्या कर सकते", "intent": "help", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:10:55.485701", "text": "लारा", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:01.003207", "text": "लारा", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:02.919971", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:11:08.240500", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:11:10.109975", "text": "कहीं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:15.666934", "text": "कहीं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:17.456010", "text": "हैं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:23.135450", "text": "हैं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:26.523362", "text": "हैं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:31.883904", "text": "हैं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:11:40.600094", "text": "रुको", "intent": "stop", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:11:43.247270", "text": "रुको", "intent": "stop", "confidence": 1.0, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:11:50.942986", "text": "दोहरा", "intent": "repeat", "confidence": 0.6000000000000001, "match_type": "ngram"}
+{"timestamp": "2026-01-19T01:11:53.535318", "text": "दोहरा", "intent": "repeat", "confidence": 0.6000000000000001, "match_type": "ngram"}
+{"timestamp": "2026-01-19T01:12:00.662396", "text": "बाहर हो", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:12:06.346665", "text": "बाहर हो", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:12:08.198195", "text": "कहीं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:12:13.658095", "text": "कहीं", "intent": "unknown", "confidence": 0.0, "match_type": "none"}
+{"timestamp": "2026-01-19T01:12:17.053725", "text": "है दोहराव", "intent": "repeat", "confidence": 0.6000000000000001, "match_type": "ngram"}
+{"timestamp": "2026-01-19T01:12:22.330453", "text": "है दोहराव", "intent": "repeat", "confidence": 0.6000000000000001, "match_type": "ngram"}
+{"timestamp": "2026-01-19T01:12:24.191225", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:12:29.670032", "text": "है", "intent": "unknown", "confidence": 0.2833333333333333, "match_type": "phrase_partial"}
+{"timestamp": "2026-01-19T01:12:32.685065", "text": "हैं फिर से", "intent": "repeat", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:12:38.120768", "text": "हैं फिर से", "intent": "repeat", "confidence": 0.85, "match_type": "exact"}
+{"timestamp": "2026-01-19T01:12:41.780281", "text": "कहीं फिर से", "intent": "repeat", "confidence": 0.85, "match_type": "exact"}
